@@ -1,0 +1,107 @@
+{
+  "reviews": [
+    {
+      "image": "profilepic",
+      "name": "Curtis S.",
+      "reviewsamount": "4",
+      "restaurant": "Flannigans",
+      "review": "Absolute poo, don't waste your time. Beer tastes sour. Crisps were stale.Enough said.",
+      "likes": 65,
+      "comment": 45,
+      "user": "jack",
+      "usercomments": "you are a cunt",
+      "id": 1
+    },
+    {
+      "RestaurantName": "Raclette",
+      "address": "Bern",
+      "ratings": 67,
+      "image": "restaurant",
+      "id": 2
+    },
+    {
+      "RestaurantName": "Pizza",
+      "address": "Zurich",
+      "ratings": 18,
+      "image": "restaurant",
+      "id": 3
+    },
+    {
+      "RestaurantName": "Fish and Chips",
+      "address": "Basel",
+      "ratings": 18,
+      "image": "restaurant",
+      "id": 4
+    }
+  ],
+  "restaurants-nour": [
+    {
+      "id": 1,
+      "RestaurantName": "Läderach Chocolatier Suisse  ",
+      "address": "Valais",
+      "username": "Laurent H.",
+      "reviewdate": "01.01.2018 15:22",
+      "likes": "63",
+      "comments": "23",
+      "ratings": 80,
+      "image": "restaurant",
+      "category": "Chocolatiers & Shops",
+      "openingtime": "Monday-Friday 11:00 am - 11:00 pm",
+      "Price_level": "Medium",
+      "total_reviews": "6 Reviews in total ",
+      "comment": "This location at the Bahnhofstrasse is quite friendly and easily located across the street from the train station. The people there seem to be quite good and helpful in their service. "
+    },
+    {
+      "id": 2,
+      "RestaurantName": "Thai",
+      "username": "Laurent H.",
+      "reviewdate": "01.01.2018 15:22",
+      "likes": "63",
+      "comments": "23",
+      "address": "Valais",
+      "ratings": 80,
+      "image": "restaurant",
+      "category": "Chocolatiers & Shops",
+      "openingtime": "Monday-Friday 07:00 am - 10:00 pm",
+      "Price_level": "High",
+      "total_reviews": "6 Reviews in total ",
+      "comment": "This location at the Bahnhofstrasse is quite friendly and easily located across the street from the train station. The people there seem to be quite good and helpful in their service. "
+    },
+    {
+      "id": 3,
+      "RestaurantName": "Thai",
+      "username": "Laurent H.",
+      "reviewdate": "01.01.2018 15:22",
+      "likes": "63",
+      "comments": "23",
+      "address": "Valais",
+      "ratings": 80,
+      "image": "restaurant",
+      "category": "Chocolatiers & Shops",
+      "openingtime": "Monday-Friday 06:00 am - 3:00 pm",
+      "Price_level": "Low",
+      "total_reviews": "6 Reviews in total ",
+      "comment": "This location at the Bahnhofstrasse is quite friendly and easily located across the street from the train station. The people there seem to be quite good and helpful in their service. "
+    }
+  ],
+  "comments-nour": [
+    {
+      "name": "Colin Wirz",
+      "comment": "Actually you have no taste!",
+      "date": "01.01.2018 15:22",
+      "id": 1
+    },
+    {
+      "name": "Laurent Meyer",
+      "comment": "Sorry bro!",
+      "date": "01.01.2018 15:22",
+      "id": 1
+    },
+    {
+      "name": "Nour Gamal",
+      "comment": "I cant imagine!",
+      "date": "01.01.2018 15:22",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+.users {
+margin-top:20px;
+width:18%;
+height:65%;
+min-height:400px;
+min-width:300px;
+border-radius:3px;
+background-color: #FFFFFF;
+border-radius:3px;
+border-top:5px solid #E47D31;
+margin-bottom:25px;
+}
+
+.expand{
+margin-top:20px;
+width:18%;
+height:30%;
+border-radius:3px;
+background-color: #FFFFFF;
+border-radius:3px;
+border-top:5px solid #E47D31;
+margin-bottom:25px;
+}
+
+#category{
+    height:100%;
+    width:15%;
+    border:1px solid #E47D31;
+    background-color:#E47D31;
+    color:white;
+    font-size:16px;
+}
+
